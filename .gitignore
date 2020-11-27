@@ -1,0 +1,6 @@
+week1/data/
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+
