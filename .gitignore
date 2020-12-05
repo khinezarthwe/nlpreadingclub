@@ -3,4 +3,7 @@ week1/data/
 __pycache__/
 *.py[cod]
 *$py.class
+.ipynb_checkpoints
+week1/.ipynb_checkpoints/*
+
 
